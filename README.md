@@ -12,7 +12,7 @@ void display();
 int main() {
     int choice;
 
-    clrscr();  // Only use this if your compiler supports it
+    clrscr();  
 
     do {
         printf("\n1. Push\n2. Pop\n3. Display\n4. Exit\n");
